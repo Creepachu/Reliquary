@@ -4,9 +4,9 @@ Reliquary [![Mod Build](https://github.com/P3pp3rF1y/Reliquary/workflows/Mod%20B
 Description
 =========
 
-The offical repository of Reliquary! That mod, with the magical swag, and a weapon, and stuff.
+An unoffical repository of Reliquary!
 
-Originally made by x3n0ph0b3 and TheMike, Reliquary is now maintained by P3pp3rF1y.
+Originally made by x3n0ph0b3 and TheMike, Reliquary is now maintained by P3pp3rF1y, but this fork was made to tweak some settings which are not tweakable through the config file.
 
 Building
 =========
